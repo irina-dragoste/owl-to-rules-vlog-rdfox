@@ -1,0 +1,4 @@
+<http://www.Department1.University0.edu/FullProfessor1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <SRC_P0> .
+<http://www.Department1.University0.edu/FullProfessor1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <SRC_P1> .
+<http://dcarralm/1/untitled-ontology-38d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <SRC_P0> .
+<http://dcarralm/1/untitled-ontology-38d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <SRC_P1> .

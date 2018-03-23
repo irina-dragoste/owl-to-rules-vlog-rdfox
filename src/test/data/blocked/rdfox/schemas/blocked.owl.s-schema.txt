@@ -1,0 +1,21 @@
+SRC_P1 {
+ c0 : STRING,
+ c1 : STRING
+}
+SRC_P2 {
+ c0 : STRING
+}
+SRC_P4 {
+ c0 : STRING,
+ c1 : STRING
+}
+SRC_P0 {
+ c0 : STRING,
+ c1 : STRING
+}
+SRC_P5 {
+ c0 : STRING
+}
+SRC_P3 {
+ c0 : STRING
+}

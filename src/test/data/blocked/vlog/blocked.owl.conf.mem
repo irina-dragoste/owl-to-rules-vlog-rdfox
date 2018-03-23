@@ -1,0 +1,4 @@
+EDB0_predname=SRC_P2
+EDB0_type=INMEMORY
+EDB0_param0=/data/db1
+EDB0_param1=SRC_P2

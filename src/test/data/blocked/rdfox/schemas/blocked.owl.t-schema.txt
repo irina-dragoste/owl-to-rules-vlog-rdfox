@@ -1,0 +1,21 @@
+P1 {
+ c0 : STRING,
+ c1 : STRING
+}
+P2 {
+ c0 : STRING
+}
+P4 {
+ c0 : STRING,
+ c1 : STRING
+}
+P0 {
+ c0 : STRING,
+ c1 : STRING
+}
+P5 {
+ c0 : STRING
+}
+P3 {
+ c0 : STRING
+}

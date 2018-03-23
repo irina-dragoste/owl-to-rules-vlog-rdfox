@@ -1,0 +1,6 @@
+SRC_P1(?X, ?Y) -> P1(?X, ?Y) .
+SRC_P3(?X, ?Y) -> P3(?X, ?Y) .
+SRC_P4(?X, ?Y) -> P4(?X, ?Y) .
+SRC_P2(?X) -> P2(?X) .
+SRC_P0(?X) -> P0(?X) .
+SRC_P5(?X) -> P5(?X) .
